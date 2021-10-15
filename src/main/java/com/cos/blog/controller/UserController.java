@@ -65,7 +65,6 @@ public class UserController {
 //		https://kauth.kakao.com/oauth/token
 //
 //		grant_type = "authorization_code"
-//		client_id = "44a7adf8216850650fd7ea4b34f2a17b"
 //		redirect_uri = "http://localhost:8080/auth/kakao/callback"
 //		code={동적임}
 //		client_secret:필수아님
